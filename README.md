@@ -44,7 +44,9 @@ hypotesis
 3.สินค้าประเภทเนื้อสัตว์
 ![image](https://github.com/bsssgrace/5001-mini-project/assets/117662533/71e5b277-0aed-47ed-97ce-3ae835077d98)
 
-
+  ข้อสรุป
+  - ฟหกด
+  - ก
 
 Reference
 
