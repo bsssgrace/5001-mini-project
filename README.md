@@ -1,4 +1,4 @@
-# 5001-mini-project
+# Covid-19 Situation Impact on Commodity prices
 
 hypotesis
 1.Commodity ทีราคาผันผวนในช่วงโควิดที่ผ่านมา ราคามันผลกระทบมาจาก Covid new case มากแค่ไหน
