@@ -1,6 +1,5 @@
 # Covid-19 Situation Impact on Commodity prices
-![2](https://github.com/bsssgrace/5001-mini-project/assets/117662533/23b1f09b-9b0d-4dd6-b163-2201d1ecf866)
-
+![energy](https://github.com/bsssgrace/5001-mini-project/assets/114140787/56441409-ee52-470d-a8fa-41b8c24e0c69)
 
 ## hypotesis
 1.Commodity ทีราคาผันผวนในช่วงโควิดที่ผ่านมาความสัมพันธ์ ราคาส่งผลกระทบมาจาก Covid new case มากแค่ไหน
@@ -23,7 +22,7 @@
 
 ## 1.สินค้าประเภทพลังงาน
 
-![2](https://github.com/bsssgrace/5001-mini-project/assets/117662533/23b1f09b-9b0d-4dd6-b163-2201d1ecf866)
+![energy](https://github.com/bsssgrace/5001-mini-project/assets/114140787/56441409-ee52-470d-a8fa-41b8c24e0c69)
 
   ข้อสรุป
   - 1.การหยุดใช้พลังงานอย่างกระทันหันเนืองจาก พลังงานจากการเดินทางในประเทศและต่างประเทศ, การหยุดบริโภคพลังงานจากโรงงาน
@@ -31,7 +30,7 @@
   - 
 
 ## 2. สินค้าประเภทโลหะ
-![image](https://github.com/bsssgrace/5001-mini-project/assets/117662533/59014d28-69d1-450f-8c09-7fde1cbca115)
+![metal](https://github.com/bsssgrace/5001-mini-project/assets/114140787/cf81e1c7-e15a-4ce3-a478-4cd06623f2f3)
 
 (กราฟ)
 
@@ -42,7 +41,8 @@
   - 
 
 ## 3.สินค้าประเภทเนื้อสัตว์
-![image](https://github.com/bsssgrace/5001-mini-project/assets/117662533/71e5b277-0aed-47ed-97ce-3ae835077d98)
+![meat](https://github.com/bsssgrace/5001-mini-project/assets/114140787/63a1a9f9-f8eb-40a6-889a-1a1d173630ee)
+
 
   ข้อสรุป
   - ฟหกด
