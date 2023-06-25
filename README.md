@@ -1,4 +1,5 @@
 # Covid-19 Situation Impact on Commodity prices
+![1](https://github.com/bsssgrace/5001-mini-project/assets/117662533/7503834d-b434-4261-8c26-c8f49f9b1ffe)
 
 hypotesis
 1.Commodity ทีราคาผันผวนในช่วงโควิดที่ผ่านมา ราคามันผลกระทบมาจาก Covid new case มากแค่ไหน
