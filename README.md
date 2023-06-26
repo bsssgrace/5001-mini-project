@@ -53,7 +53,8 @@
                โรงงาน 
                
 # Reference
-
+  - https://th.investing.com/commodities/
+  - https://covid19.who.int/data
 
 
 
