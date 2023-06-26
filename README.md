@@ -1,7 +1,7 @@
 # Covid-19 Situation Impact on Commodity prices
 ![energy](https://github.com/bsssgrace/5001-mini-project/assets/114140787/56441409-ee52-470d-a8fa-41b8c24e0c69)
 
-## Backgroud (Hypothesis)
+## Background (Hypothesis)
   - 1.สถานะการ์การระบาดของCovid-19ทั่วโลกส่งผลกระทบต่อราคาสินค้าโภคภัณฑ์ในปัจจุบันมากเพียงใด
   - 2.กลุ่มของสินค้าโภคภัณฑ์แต่ละชนิดได้รับผลกระทบจากสถานะการณ์Covid-19มากน้อยอย่างไร
 
