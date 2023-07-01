@@ -49,7 +49,7 @@
 
 ![energy](https://github.com/bsssgrace/5001-mini-project/assets/114140787/56441409-ee52-470d-a8fa-41b8c24e0c69)
 
-![Crude Oil (WTI) vs COVID Cases](https://github.com/bsssgrace/5001-mini-project/assets/16522923/161eef64-d586-4bac-9319-78446dbf86a1)
+![crude oil](https://github.com/bsssgrace/5001-mini-project/assets/114140787/2b3211a9-f72e-4700-80bd-68e0285b7d93)
 
   ข้อสรุป
   - ราคาสินค้าพลังงานทุกประเภทตกลงอย่างมากในช่วงเริ่มระบาดของโควิด สาเหตุมาจากการหยุดใช้พลังงานอย่างกระทันหันจากการระงับการเดินทางทั้งในและต่างประเทศ และการลดการใช้พลังงานของภาคธุรกิจและภาคอุตสาหกรรม
